@@ -1,14 +1,17 @@
 {
-  "version": 7,
+  "version": 9,
   "cultures_url": "cultures.json",
   "varieties_url": "varieties.json",
   "tips_url": "tips.json",
   "changelog": [
-    "Добавлена полная энциклопедия баклажана",
-    "Обновлены сорта баклажанов",
-    "Исправлены мелкие ошибки"
+    "Добавлена полная энциклопедия томата",
+    "Обновлены данные о томатах"
   ],
   "articles": [
+    {
+      "file": "tomato.html",
+      "url": "articles/tomato.html"
+    },
     {
       "file": "eggplant_full.html",
       "url": "articles/eggplant_full.html"
