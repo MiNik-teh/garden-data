@@ -1,0 +1,19 @@
+{
+  "cultures": [
+    {
+      "name": "Баклажаны",
+      "description": "Очень теплолюбивы...",
+      "sow_offset": 70,
+      "plant_offset": 15,
+      "harvest_offset": 70,
+      "is_transplant": 1,
+      "direct_sow_offset": 0,
+      "planting_depth": "0,5-1 см",
+      "spacing": "40х60 см",
+      "sun_requirements": "Полное солнце",
+      "article_file": "eggplant.html",
+      "article_url": "https://yourserver.com/articles/eggplant.html"
+    },
+    ...
+  ]
+}
