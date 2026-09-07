@@ -3,6 +3,11 @@
   "cultures_url": "cultures.json",
   "varieties_url": "varieties.json",
   "tips_url": "tips.json",
+  "changelog": [
+    "Добавлена полная энциклопедия баклажана",
+    "Обновлены сорта баклажанов",
+    "Исправлены мелкие ошибки"
+  ],
   "articles": [
     {
       "file": "eggplant_full.html",
