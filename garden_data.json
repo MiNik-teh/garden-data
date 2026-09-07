@@ -1,11 +1,24 @@
 {
-"version": "1.1.0",
+"version": "1.1.1",
 "changelog": [
   "Добавлены новые сорта томатов",
   "Обновлены описания культур",
   "Исправлены ошибки календаря"
 ],
   "cultures": [
+    {
+  "name": "Баклажаны",
+  "description": "Очень теплолюбивы. Плоды тёмно-фиолетовые, массой до 1 кг.",
+  "sow_offset": 70,
+  "plant_offset": 15,
+  "harvest_offset": 70,
+  "is_transplant": 1,
+  "direct_sow_offset": 0,
+  "planting_depth": "0,5-1 см",
+  "spacing": "40х60 см",
+  "sun_requirements": "Полное солнце",
+  "article_file": "eggplant.html"
+}
     {
       "name": "Помидоры",
       "description": "Обновлённое описание помидор",
