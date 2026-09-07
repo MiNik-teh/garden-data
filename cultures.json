@@ -1,6 +1,32 @@
 {
   "cultures": [
     {
+      "name": "Помидоры",
+      "description": "Требуют много солнца",
+      "sow_offset": 60,
+      "plant_offset": 7,
+      "harvest_offset": 80,
+      "is_transplant": 1,
+      "direct_sow_offset": 0,
+      "planting_depth": "1-1,5 см",
+      "spacing": "50х50 см",
+      "sun_requirements": "Полное солнце",
+      "article_file": "default.html"
+    },
+    {
+      "name": "Огурцы",
+      "description": "Любят тепло и влагу",
+      "sow_offset": 30,
+      "plant_offset": 5,
+      "harvest_offset": 45,
+      "is_transplant": 1,
+      "direct_sow_offset": 0,
+      "planting_depth": "1,5-2 см",
+      "spacing": "30х60 см",
+      "sun_requirements": "Полное солнце",
+      "article_file": "default.html"
+    },
+    {
       "name": "Баклажаны",
       "description": "Очень теплолюбивы",
       "sow_offset": 70,
@@ -11,9 +37,8 @@
       "planting_depth": "0,5-1 см",
       "spacing": "40х60 см",
       "sun_requirements": "Полное солнце",
-      "article_file": "baklazhan.html",
-      "article_url": "articles/baklazhan.html"
-    },
-    ... (остальные культуры)
+      "article_file": "eggplant_full.html",
+      "article_url": "articles/eggplant_full.html"
+    }
   ]
 }
