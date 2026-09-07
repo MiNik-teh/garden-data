@@ -1,18 +1,28 @@
 {
   "varieties": [
     {
+      "culture": "Помидоры",
+      "variety": "Бычье сердце",
+      "description": "Крупноплодный, салатный",
+      "article_file": "default.html"
+    },
+    {
+      "culture": "Огурцы",
+      "variety": "Зозуля",
+      "description": "Партенокарпический",
+      "article_file": "default.html"
+    },
+    {
       "culture": "Баклажаны",
       "variety": "Алмаз",
       "description": "Среднеспелый, плоды 100–160 г",
-      "article_file": "almaz.html",
-      "article_url": "articles/almaz.html"
+      "article_file": "default.html"
     },
     {
       "culture": "Баклажаны",
       "variety": "Робин Гуд",
       "description": "Очень ранний, грушевидные плоды",
-      "article_file": "robin_gud.html",
-      "article_url": "articles/robin_gud.html"
+      "article_file": "default.html"
     }
   ]
 }
