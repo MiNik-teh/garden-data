@@ -1,20 +1,12 @@
 {
-  "version": 6,
+  "version": 7,
   "cultures_url": "cultures.json",
   "varieties_url": "varieties.json",
   "tips_url": "tips.json",
   "articles": [
     {
-      "file": "baklazhan.html",
-      "url": "articles/baklazhan.html"
-    },
-    {
-      "file": "almaz.html",
-      "url": "articles/almaz.html"
-    },
-    {
-      "file": "robin_gud.html",
-      "url": "articles/robin_gud.html"
+      "file": "eggplant_full.html",
+      "url": "articles/eggplant_full.html"
     }
   ]
 }
