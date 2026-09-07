@@ -11,7 +11,8 @@
       "planting_depth": "1-1,5 см",
       "spacing": "50х50 см",
       "sun_requirements": "Полное солнце",
-      "article_file": "default.html"
+      "article_file": "tomato.html",
+      "article_url": "articles/tomato.html"
     },
     {
       "name": "Огурцы",
