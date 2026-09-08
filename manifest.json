@@ -1,20 +1,32 @@
 {
-  "version": 9,
+  "version": 11,
   "cultures_url": "cultures.json",
   "varieties_url": "varieties.json",
   "tips_url": "tips.json",
   "changelog": [
-    "Добавлена полная энциклопедия томата",
-    "Обновлены данные о томатах"
+    "Добавлены полные энциклопедии для всех культур",
+    "Обновлены статьи о томатах, огурцах, картофеле, луке, клубнике, перце, моркови, капусте, кабачках, баклажанах, свёкле, редисе, чесноке, горохе, тыкве, брокколи, укропе, петрушке, салате, шпинате"
   ],
   "articles": [
-    {
-      "file": "tomato.html",
-      "url": "articles/tomato.html"
-    },
-    {
-      "file": "eggplant_full.html",
-      "url": "articles/eggplant_full.html"
-    }
+    {"file": "tomato.html", "url": "articles/tomato.html"},
+    {"file": "cucumber.html", "url": "articles/cucumber.html"},
+    {"file": "potato.html", "url": "articles/potato.html"},
+    {"file": "onion.html", "url": "articles/onion.html"},
+    {"file": "strawberry.html", "url": "articles/strawberry.html"},
+    {"file": "pepper.html", "url": "articles/pepper.html"},
+    {"file": "carrot.html", "url": "articles/carrot.html"},
+    {"file": "cabbage.html", "url": "articles/cabbage.html"},
+    {"file": "zucchini.html", "url": "articles/zucchini.html"},
+    {"file": "eggplant_full.html", "url": "articles/eggplant_full.html"},
+    {"file": "beet.html", "url": "articles/beet.html"},
+    {"file": "radish.html", "url": "articles/radish.html"},
+    {"file": "garlic.html", "url": "articles/garlic.html"},
+    {"file": "pea.html", "url": "articles/pea.html"},
+    {"file": "pumpkin.html", "url": "articles/pumpkin.html"},
+    {"file": "broccoli.html", "url": "articles/broccoli.html"},
+    {"file": "dill.html", "url": "articles/dill.html"},
+    {"file": "parsley.html", "url": "articles/parsley.html"},
+    {"file": "lettuce.html", "url": "articles/lettuce.html"},
+    {"file": "spinach.html", "url": "articles/spinach.html"}
   ]
 }
