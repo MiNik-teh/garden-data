@@ -7,9 +7,21 @@
       "article_file": "default.html"
     },
     {
+      "culture": "Помидоры",
+      "variety": "Де Барао",
+      "description": "Высокорослый, для консервации",
+      "article_file": "default.html"
+    },
+    {
       "culture": "Огурцы",
       "variety": "Зозуля",
       "description": "Партенокарпический",
+      "article_file": "default.html"
+    },
+    {
+      "culture": "Огурцы",
+      "variety": "Конкурент",
+      "description": "Засолочный",
       "article_file": "default.html"
     },
     {
